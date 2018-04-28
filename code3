@@ -105,9 +105,9 @@ html, body {
 }
 .site {
   min-height: 100%;
-  height: auto !important; /* For IE6 support */
-  height: 100%; /* For IE6 support */
-  margin-bottom: -100px; /* This number must be equal to the height of the footer (only negative). */
+  height: auto !important; 
+  height: 100%; 
+  margin-bottom: -100px; 
 }
 .site::after {
   content: "";
