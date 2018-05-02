@@ -1,0 +1,130 @@
+http://scratchpad.io/aggressive-plantation-5629
+
+<body>
+
+ <h1>
+   Maddy Ting
+ </h1>
+  
+  <h2>
+    Welcome!
+  </h2>
+  
+  <h3>
+    Locations
+  </h3>
+  <p>
+    Originally from San Francisco, California
+    <br>Now lives in Belmont, California
+  </p>
+  
+  <h4>
+    School
+  </h4>
+  <p>
+    Carlmont High School
+  </p>
+  
+  <h3>
+    Activities
+  </h3>
+  <p>
+    Swimming on <strong>Otters</strong>
+  </p>
+  
+  <h3>
+    Passions
+  </h3>
+  <p>
+  <ol>
+    <li>Art</li>
+    </ol>
+  </p>
+  
+  ------
+  <ul>
+    <li>this is the tag for unordered lists!</li>
+    <li>you can use <i>this</i> for italics or <em>this</em></li>
+  </ul>
+  
+  
+  
+<footer>
+  <img src="https://orig00.deviantart.net/7580/f/2016/346/6/9/_free__the_ocean_is_calling_by_didthesqd-dareve6.gif" width="20">
+  
+  <a href="https://www.facebook.com/maddy.ting.7/" target="_blank">
+  <img src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png" width="20"></a>
+  
+  <a href="https://rayatherayquaza.deviantart.com/" target="_blank">
+  <img src="https://maxcdn.icons8.com/Android_L/PNG/512/Logos/deviantart-512.png" width="20"></a>
+  
+  <a href="LINK">
+  <img src="https://www.seeklogo.net/wp-content/uploads/2016/06/Instagram-logo.png" width="20"></a>
+  
+  <a href="LINK">
+  <img src="https://logoeps.com/wp-content/uploads/2012/12/new-twitter-logo-vector.png" width="20"></a>
+  
+  <a href="http://flightrising.com/main.php?p=lair&tab=userpage&id=310065">
+  <img src="http://www.noobabble.com/wp-content/uploads/2015/01/Flight-Rising-Logo.png" width="20"></a>
+</footer>
+  
+</body>
+  
+  
+  
+
+
+<style>
+
+body {
+  font-family: 'Comic Sans MS', sans-serif;
+  color: #0c6ab0;
+  background-attachment: scroll;
+  background-image: url('https://pre00.deviantart.net/0ee6/th/pre/i/2018/111/2/d/turianwingpersonalweb_by_rayatherayquaza-dc9helw.png')
+}
+
+h1 {
+  color: #0c4976;
+  text-align: center;
+  background: rgba(10, 80, 300, 0.1);
+  font-weight: lighter;
+  // font-weight: means thinness of font
+  
+}
+
+h2 {
+   color: #07538b;
+  text-align: center;
+  background: rgba(0, 80, 200, 0.1);
+  font-weight: 100;
+
+#footer img {
+     width: 25px;
+     height: 25px
+}
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.site {
+  min-height: 100%;
+  height: auto !important; 
+  height: 100%; 
+  margin-bottom: -100px; 
+}
+.site::after {
+  content: "";
+  display: block;
+}
+.site-footer, .site::after {
+  height: 100px; 
+}
+  
+
+</style>
+
+
+
